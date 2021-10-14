@@ -13,6 +13,7 @@
 		88C93F712717970A008788B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88C93F6F2717970A008788B8 /* Main.storyboard */; };
 		88C93F732717970D008788B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88C93F722717970D008788B8 /* Assets.xcassets */; };
 		88C93F762717970D008788B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88C93F742717970D008788B8 /* LaunchScreen.storyboard */; };
+		88C93F7E2717BEEA008788B8 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88C93F7D2717BEEA008788B8 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		88C93F722717970D008788B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88C93F752717970D008788B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88C93F772717970D008788B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88C93F7D2717BEEA008788B8 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../../../Downloads/alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				88C93F6B2717970A008788B8 /* SceneDelegate.swift */,
 				88C93F6D2717970A008788B8 /* ViewController.swift */,
 				88C93F6F2717970A008788B8 /* Main.storyboard */,
+				88C93F7D2717BEEA008788B8 /* alarm_sound.mp3 */,
 				88C93F722717970D008788B8 /* Assets.xcassets */,
 				88C93F742717970D008788B8 /* LaunchScreen.storyboard */,
 				88C93F772717970D008788B8 /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				88C93F762717970D008788B8 /* LaunchScreen.storyboard in Resources */,
 				88C93F732717970D008788B8 /* Assets.xcassets in Resources */,
+				88C93F7E2717BEEA008788B8 /* alarm_sound.mp3 in Resources */,
 				88C93F712717970A008788B8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
